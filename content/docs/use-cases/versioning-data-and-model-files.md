@@ -1,6 +1,6 @@
 # Versioning Data and Model Files
 
-> This document provides an overview the file versioning workflow with DVC. To
+> This document provides an overview of the file versioning workflow with DVC. To
 > get more hands-on experience on this, we recommend following along the
 > [Versioning](/doc/tutorials/versioning) tutorial.
 
